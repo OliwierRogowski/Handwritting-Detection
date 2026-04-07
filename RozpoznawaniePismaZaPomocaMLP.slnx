@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="RozpoznawaniePismaZaPomocaMLP/RozpoznawaniePismaZaPomocaMLP.vcxproj" Id="81f7dea9-f7c7-4337-9e23-79a76abf0151" />
+</Solution>

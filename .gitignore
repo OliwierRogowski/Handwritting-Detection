@@ -1,0 +1,10 @@
+x64/
+Debug/
+Release/
+*.dll
+*.exe
+*.pdb
+*.user
+*.idx3-ubyte
+*.idx1-ubyte
+.vs/
